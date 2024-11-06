@@ -1,0 +1,6 @@
+{
+    "reads1": "s3://nfcore-test-inputs-us-west-2/rnaseq/ggal_gut_1.fq",
+    "reads2": "s3://nfcore-test-inputs-us-west-2/rnaseq/ggal_gut_2.fq",
+    "sample_id": "ggal_gut",
+    "transcriptome": "s3://nfcore-test-inputs-us-west-2/rnaseq/ggal_1_48850000_49020000.Ggal71.500bpflank.fa"
+}
