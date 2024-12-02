@@ -1,0 +1,6 @@
+{
+    "reads1": "s3://aws-genomics-static-us-west-2/omics-data/test-datasets/nextflow-io-rnaseq-nf/ggal/ggal_gut_1.fq",
+    "reads2": "s3://aws-genomics-static-us-west-2/omics-data/test-datasets/nextflow-io-rnaseq-nf/ggal/ggal_gut_2.fq",
+    "sample_id": "ggal_gut",
+    "transcriptome": "s3://aws-genomics-static-us-west-2/omics-data/test-datasets/nextflow-io-rnaseq-nf/ggal/ggal_1_48850000_49020000.Ggal71.500bpflank.fa"
+}
