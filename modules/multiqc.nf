@@ -1,7 +1,6 @@
 params.outdir = 'results'
 
 process MULTIQC {
-    container 'quay.io/nextflow/rnaseq-nf:v1.3.0'
     publishDir params.outdir, mode:'copy'
     memory '4 GB'
     cpus 2

@@ -1,7 +1,6 @@
 
 process INDEX {
     tag "$transcriptome.simpleName"
-    container 'quay.io/nextflow/rnaseq-nf:v1.3.0'
     memory '4 GB'
     cpus 2
     

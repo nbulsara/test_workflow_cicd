@@ -1,7 +1,6 @@
 
 process QUANT {
     tag "$pair_id"
-    container 'quay.io/nextflow/rnaseq-nf:v1.3.0'
     memory '4 GB'
     cpus 2
     publishDir params.outdir, mode:'copy'

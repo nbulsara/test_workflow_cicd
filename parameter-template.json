@@ -10,5 +10,8 @@
     },
     "sample_id": {
         "description": "sample identifier string"
+    },
+    "ecr_registry": {
+        "description": "ECR registry to use for the container"
     }
 }
